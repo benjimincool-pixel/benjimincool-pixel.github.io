@@ -1,0 +1,4 @@
+/* 强制隐藏 Banner 上的大标题 */
+.header-inner .h2 {
+  display: none !important;
+}
